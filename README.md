@@ -1,2 +1,2 @@
 # project delails
-its a demo project2
+its a demo project2.
